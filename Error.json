@@ -1,0 +1,18 @@
+[
+    {
+        "code": "200",
+        "message": "Request Successfull!"
+    },
+    {
+        "code": "400",
+        "message": "Bad Request"
+    },
+    {
+        "code": "404",
+        "message": "Request not found!"
+    },
+    {
+        "code": "500",
+        "message": "Internal Error"
+    }
+]
